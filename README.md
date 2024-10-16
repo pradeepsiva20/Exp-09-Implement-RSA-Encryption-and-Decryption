@@ -134,6 +134,8 @@ int main() {
 ```
 ## Output:
 
+![exp9 cryp](https://github.com/user-attachments/assets/4e10a18a-5774-4b26-89fb-fec90ec746f4)
+
 
 
 ## Result:
